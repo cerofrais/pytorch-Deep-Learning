@@ -1,3 +1,5 @@
+
+.vscode
 # Remove [I]Python caching
 __pycache__
 .ipynb_checkpoints
